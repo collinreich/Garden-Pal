@@ -1,6 +1,7 @@
+GardenPal was a class project focused on creating an authentic software engineering experience throughout the semester. The project itself was garden design/landscaping software focused on utilizing plant species native to Delaware. The following is the original README.txt formatted for the class requirements.
+
+
 GardenPal is the name of our project. The first screen the user will see is a start screen with our logo as well as two different option buttons: one to create a new garden layout and another to view a previously designed garden. Next, the user will be prompted with a list of suggested plants based on the survey that they completed. The user will be able to view all details of this plant here. The user will then design the shape of their garden as well as features that already exist around their garden.
-
 After this, users can drag and drop native plants from their customized list, or the general list of native plants into their garden. Users also have the ability to drag and drop other features such as rocks and paths. 
-
- The seventh screen shows the ability to view the garden from a window view in the house in addition to the standard birds eye view. The eighth screen shows the option to save your current project, or start a new one.
+The seventh screen shows the ability to view the garden from a window view in the house in addition to the standard birds eye view. The eighth screen shows the option to save your current project, or start a new one.
 The user can have multiple projects and access each one whenever they want. The ninth screen shows how the user will be able to edit a garden, print a garden, or duplicate a garden. Finally, the user will be able to check different ratings about a given garden: animals fed, continuous bloom, garden happiness.
